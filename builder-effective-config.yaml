@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: build
+appId: CareerSurfer
+win:
+  target:
+    - nsis
+  publish: github
+extends: null
+nsis:
+  uninstallDisplayName: Career Surfer
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+files:
+  - filter:
+      - app.js
+      - dist/career-surfer/**
+electronVersion: 18.0.2
