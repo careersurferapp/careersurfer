@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: career-surfer-Setup-1.0.1.exe
-    sha512: W41e005Fak/0PMwW+vTfDHYLy2Y9VddvxsB4eLvl3xfgcmE8j/1WZocHxM4FSUxa36UDp+3bDYYm68btJIJOZg==
-    size: 76045233
-path: career-surfer-Setup-1.0.1.exe
-sha512: W41e005Fak/0PMwW+vTfDHYLy2Y9VddvxsB4eLvl3xfgcmE8j/1WZocHxM4FSUxa36UDp+3bDYYm68btJIJOZg==
-releaseDate: '2022-04-06T21:28:19.922Z'
+  - url: career-surfer-Setup-1.0.2.exe
+    sha512: WsL1J65zSyvAW2DNKBRQ0MuIggsZ8iFjxhWo1x7tC5ZvWNi+ZwXWWp2PypBo1gybhx5I04jmOshzCXFabrK9YQ==
+    size: 76046625
+path: career-surfer-Setup-1.0.2.exe
+sha512: WsL1J65zSyvAW2DNKBRQ0MuIggsZ8iFjxhWo1x7tC5ZvWNi+ZwXWWp2PypBo1gybhx5I04jmOshzCXFabrK9YQ==
+releaseDate: '2022-04-06T21:46:29.623Z'
